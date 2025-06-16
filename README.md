@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
 |  |
