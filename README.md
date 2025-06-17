@@ -28,8 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Greedy
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
