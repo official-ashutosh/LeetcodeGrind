@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
