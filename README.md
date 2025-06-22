@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sliding Window
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
