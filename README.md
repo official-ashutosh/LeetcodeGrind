@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Two Pointers
+|  |
+| ------- |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 <!---LeetCode Topics End-->
