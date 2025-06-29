@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int dp[55][55][55][55];
+    int dp[52][52][52][52];
 
     static const int mod = 1e9+7;
 
@@ -37,7 +37,7 @@ public:
                 // cout << func(id+1, ct-1, prev2, id+1, nums) << endl;
             } else {
                 ans = (ans+func(id+1, id, ct-1, prev1, prev2, nums)) % mod;
-                cout << id << " " << ans << endl;
+                // cout << id << " " << ans << endl;
             }
         }
 
