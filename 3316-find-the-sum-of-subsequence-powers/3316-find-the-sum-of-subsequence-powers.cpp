@@ -7,7 +7,6 @@ public:
 
     int func(int id, int lst, int ct, int prev1, int prev2, vector<int> &nums){
         if(ct == 0) {
-            // cout << prev1 << " " << prev2 << endl;
             return abs(nums[prev1]-nums[prev2]);
         }
 
@@ -21,23 +20,14 @@ public:
 
         ans = (ans+func(id+1, lst, ct, prev1, prev2, nums))%mod;
 
-        // cout << id << " " << func(id+1, ct, prev1, prev2, nums) << endl;
-
         if(lst == -1){
             ans = (ans+func(id+1, id, ct-1, prev1, prev2, nums)) % mod;
-
-            // cout << id << func(id+1, ct-1, id+1, prev2, nums) << endl;
             
         } else {
             if(prev1 == -1 || prev2 == -1 || abs(nums[id]-nums[lst]) < abs(nums[prev1]-nums[prev2]) ){
-                // cout << id << " " << abs(nums[id]-nums[prev2-1]) << endl;
                 ans = (ans+func(id+1, id, ct-1, lst, id, nums)) % mod;
-
-                cout << id << " " <<  ans;
-                // cout << func(id+1, ct-1, prev2, id+1, nums) << endl;
             } else {
                 ans = (ans+func(id+1, id, ct-1, prev1, prev2, nums)) % mod;
-                // cout << id << " " << ans << endl;
             }
         }
 
