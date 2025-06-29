@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum">3025. Minimum Operations to Form Subsequence With Target Sum</a></h2><h3>Hard</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> consisting of <strong>non-negative</strong> powers of <code>2</code>, and an integer <code>target</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum">Minimum Operations to Form Subsequence With Target Sum</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> consisting of <strong>non-negative</strong> powers of <code>2</code>, and an integer <code>target</code>.</p>
 
 <p>In one operation, you must apply the following changes to the array:</p>
 
