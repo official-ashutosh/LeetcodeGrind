@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-sum-of-subsequence-powers">3316. Find the Sum of Subsequence Powers</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>, and a <strong>positive</strong> integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-sum-of-subsequence-powers">Find the Sum of Subsequence Powers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>, and a <strong>positive</strong> integer <code>k</code>.</p>
 
 <p>The <strong>power</strong> of a <span data-keyword="subsequence-array">subsequence</span> is defined as the <strong>minimum</strong> absolute difference between <strong>any</strong> two elements in the subsequence.</p>
 
