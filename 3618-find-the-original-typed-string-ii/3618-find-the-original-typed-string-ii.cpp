@@ -8,74 +8,69 @@ public:
         vector<int> v;
         int cnt = 1;
         for (int i = 1; i < n; ++i) {
-            if (word[i] == word[i - 1]) {
-                ++cnt;
-            } else {
-                v.push_back(cnt);
-                cnt = 1;
-            }
+            if (word[i] == word[i-1]) ++cnt;
+            else { v.push_back(cnt); cnt = 1; }
         }
         v.push_back(cnt);
 
         int m = v.size();
         // total number of all xi-sequences = product v[i]
         long long total = 1;
-        for (int len : v) {
-            total = total * len % MOD;
-        }
+        for (int len : v) total = total * len % MOD;
+        // minimum picks is m (xi>=1)
+        if (m >= k) return int(total);
 
-        // minimal possible sum of picks is m (xi>=1)
-        if (m >= k) {
-            // every sequence has sum >= m >= k
-            return int(total);
-        }
+        // suffix sums to check bounds
+        vector<int> suff(m);
+        suff[m-1] = v[m-1];
+        for (int i = m-2; i >= 0; --i) suff[i] = suff[i+1] + v[i];
 
-        // badge: we need to subtract sequences whose sum < k,
-        // i.e. rem in [m .. k-1]
-
-        // We'll do a backward DP over only the last `use_runs = min(m, k)` runs,
-        // because for id < m - k, minimal sum exceeds k-1 and contributes zero.
+        // we only need to consider the last 'use_runs' runs,
+        // since picking 1 from each of more than k runs already exceeds k-1.
         int start = max(0, m - k);
-        int use_runs = m - start;  // <= k
+        int use_runs = m - start;
 
-        // dp_next[r] = number of ways for runs[id+1..m-1] to sum to r
-        vector<int> dp_next(k, 0), dp_cur(k);
-        dp_next[0] = 1;  // at id = m, only rem=0 is valid
+        // dp[id][rem] for id in [start..m], rem in [0..k-1]
+        vector<vector<int>> dp(use_runs+1, vector<int>(k, 0));
 
-        // iterate id = m-1 down to start
-        for (int ri = 1; ri <= use_runs; ++ri) {
+        // recursive fill from id = start to m
+        function<void(int)> solve = [&](int ri) {
+            // ri = 0..use_runs; corresponds to actual id = m - ri
+            if (ri == 0) {
+                // base case: id = m
+                dp[0][0] = 1;
+                return;
+            }
+            // first solve for shorter suffix
+            solve(ri-1);
             int id = m - ri;
-            int runs_left = ri;  // runs from id..m-1
-            // build prefix sums of dp_next
+            // build prefix sums of dp[ri-1]
+            vector<int> &prev = dp[ri-1], &cur = dp[ri];
             vector<long long> pref(k);
-            pref[0] = dp_next[0];
-            for (int r = 1; r < k; ++r) {
-                pref[r] = (pref[r - 1] + dp_next[r]) % MOD;
-            }
-            // compute dp_cur for this id
-            fill(dp_cur.begin(), dp_cur.end(), 0);
+            pref[0] = prev[0];
+            for (int r = 1; r < k; ++r) pref[r] = (pref[r-1] + prev[r]) % MOD;
+            // compute dp[ri][rem]
+            int runs_left = ri;
             for (int rem = 0; rem < k; ++rem) {
-                // need rem >= runs_left (since xi>=1 per run)
-                if (rem < runs_left) continue;
-                // xi ∈ [1 .. min(v[id], rem-(runs_left-1))]
-                int max_x = min(v[id], rem - (runs_left - 1));
-                // dp_cur[rem] = sum_{x=1..max_x} dp_next[rem-x]
-                // = pref[rem-1] - pref[rem-1-max_x]
-                long long sum = pref[rem - 1];
-                int tail = rem - 1 - max_x;
-                if (tail >= 0) sum = (sum - pref[tail] + MOD) % MOD;
-                dp_cur[rem] = int(sum);
+                if (rem < runs_left) {
+                    cur[rem] = 0;
+                } else {
+                    int max_x = min(v[id], rem - (runs_left - 1));
+                    // sum prev[rem-x] for x=1..max_x → pref[rem-1] - pref[rem-1-max_x]
+                    long long sum = pref[rem-1];
+                    int cut = rem - 1 - max_x;
+                    if (cut >= 0) sum = (sum - pref[cut] + MOD) % MOD;
+                    cur[rem] = int(sum);
+                }
             }
-            dp_next.swap(dp_cur);
-        }
+        };
 
-        // now dp_next[r] = dp[start][r]; since start==0 when m<k, this is dp[0]
-        // bad = sum rem=m..k-1 dp[0][rem]
+        solve(use_runs);
+        // dp[use_runs] is dp[start]
         long long bad = 0;
         for (int rem = m; rem < k; ++rem) {
-            bad = (bad + dp_next[rem]) % MOD;
+            bad = (bad + dp[use_runs][rem]) % MOD;
         }
-
         long long ans = (total - bad) % MOD;
         if (ans < 0) ans += MOD;
         return int(ans);
