@@ -3,11 +3,13 @@ public:
     int maxEvents(vector<vector<int>>& events) {
         sort(events.begin(), events.end());
 
-        int ct, ans = 0, n = events.size();
+        int ct, ans = 0;
+        int n = events.size();
+
         multiset<int> s;        
         int i = 0;
 
-        ct = n>0 ? events[0][0] : 0;
+        ct = events[0][0];
 
         while (i < n || !s.empty()) {
             while (i < n && events[i][0] <= ct) {
