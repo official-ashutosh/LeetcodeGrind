@@ -3,28 +3,30 @@ public:
     int maxEvents(vector<vector<int>>& events) {
         sort(events.begin(), events.end());
 
-        int ct, ans = 0;
+        int ans = 0;
         int n = events.size();
 
         multiset<int> s;        
         int i = 0;
 
-        ct = events[0][0];
+        int ct = events[0][0];
 
-        while (i < n || !s.empty()) {
-            while (i < n && events[i][0] <= ct) {
+        while(i<n || !s.empty()) {
+            while(i<n && events[i][0] <= ct) {
                 s.insert(events[i][1]);
                 i++;
             }
-            while (!s.empty() && *s.begin() < ct) {
+
+            while(!s.empty() && *s.begin() < ct) {
                 s.erase(s.begin());
             }
-            if (!s.empty()) {
+
+            if(!s.empty()) {
                 ans++;
                 s.erase(s.begin());
                 ct++;
             }
-            else if (i < n) {
+            else if(i < n) {
                 ct = events[i][0];
             }
         }
