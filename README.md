@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2465-shifting-letters-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2465-shifting-letters-ii) |
+| [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3316-find-the-sum-of-subsequence-powers) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
