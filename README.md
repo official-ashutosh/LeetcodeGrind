@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2465-shifting-letters-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2465-shifting-letters-ii) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3618-find-the-original-typed-string-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Array
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
