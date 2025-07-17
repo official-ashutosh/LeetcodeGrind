@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3316-find-the-sum-of-subsequence-powers) |
@@ -218,13 +219,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Linked List
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Binary Tree
+|  |
+| ------- |
+| [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
 <!---LeetCode Topics End-->
