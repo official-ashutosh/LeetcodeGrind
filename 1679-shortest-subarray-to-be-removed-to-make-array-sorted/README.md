@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted">1679. Shortest Subarray to be Removed to Make Array Sorted</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>arr</code>, remove a subarray (can be empty) from <code>arr</code> such that the remaining elements in <code>arr</code> are <strong>non-decreasing</strong>.</p>
+<h2><a href="https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted">Shortest Subarray to be Removed to Make Array Sorted</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an integer array <code>arr</code>, remove a subarray (can be empty) from <code>arr</code> such that the remaining elements in <code>arr</code> are <strong>non-decreasing</strong>.</p>
 
 <p>Return <em>the length of the shortest subarray to remove</em>.</p>
 
