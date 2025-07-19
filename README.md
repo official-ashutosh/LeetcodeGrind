@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
+| [0475-heaters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0594-longest-harmonious-subsequence) |
 | [0878-shifting-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0878-shifting-letters) |
 | [0880-rectangle-area-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0880-rectangle-area-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0475-heaters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0475-heaters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0475-heaters) |
 | [1046-max-consecutive-ones-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0475-heaters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0475-heaters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2320-find-all-k-distant-indices-in-an-array) |
