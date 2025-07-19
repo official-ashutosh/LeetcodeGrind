@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3618-find-the-original-typed-string-ii) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Memoization
 |  |
 | ------- |
