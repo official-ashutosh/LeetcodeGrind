@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0031-next-permutation) |
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
 | [0475-heaters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0594-longest-harmonious-subsequence) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0031-next-permutation) |
 | [0475-heaters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0475-heaters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
