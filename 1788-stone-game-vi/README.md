@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/stone-game-vi">Stone Game VI</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Alice and Bob take turns playing a game, with Alice starting first.</p>
+<h2><a href="https://leetcode.com/problems/stone-game-vi">1788. Stone Game VI</a></h2><h3>Medium</h3><hr><p>Alice and Bob take turns playing a game, with Alice starting first.</p>
 
 <p>There are <code>n</code> stones in a pile. On each player&#39;s turn, they can <strong>remove</strong> a stone from the pile and receive points based on the stone&#39;s value. Alice and Bob may <strong>value the stones differently</strong>.</p>
 
