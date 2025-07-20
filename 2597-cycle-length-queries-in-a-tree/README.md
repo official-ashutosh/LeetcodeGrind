@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/cycle-length-queries-in-a-tree">2597. Cycle Length Queries in a Tree</a></h2><h3>Hard</h3><hr><p>You are given an integer <code>n</code>. There is a <strong>complete binary tree</strong> with <code>2<sup>n</sup> - 1</code> nodes. The root of that tree is the node with the value <code>1</code>, and every node with a value <code>val</code> in the range <code>[1, 2<sup>n - 1</sup> - 1]</code> has two children where:</p>
+<h2><a href="https://leetcode.com/problems/cycle-length-queries-in-a-tree">Cycle Length Queries in a Tree</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given an integer <code>n</code>. There is a <strong>complete binary tree</strong> with <code>2<sup>n</sup> - 1</code> nodes. The root of that tree is the node with the value <code>1</code>, and every node with a value <code>val</code> in the range <code>[1, 2<sup>n - 1</sup> - 1]</code> has two children where:</p>
 
 <ul>
 	<li>The left node has the value <code>2 * val</code>, and</li>
