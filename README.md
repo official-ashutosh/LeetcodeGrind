@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2317-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2317-count-collisions-on-a-road) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0498-diagonal-traverse) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3587-maximum-points-tourist-can-earn) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
