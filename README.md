@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0878-shifting-letters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2044-number-of-wonderful-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2044-number-of-wonderful-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2044-number-of-wonderful-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2044-number-of-wonderful-substrings) |
 | [2465-shifting-letters-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2465-shifting-letters-ii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3618-find-the-original-typed-string-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3618-find-the-original-typed-string-ii) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2044-number-of-wonderful-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2044-number-of-wonderful-substrings) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2044-number-of-wonderful-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2044-number-of-wonderful-substrings) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
