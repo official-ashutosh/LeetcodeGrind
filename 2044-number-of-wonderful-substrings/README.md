@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-wonderful-substrings">2044. Number of Wonderful Substrings</a></h2><h3>Medium</h3><hr><p>A <strong>wonderful</strong> string is a string where <strong>at most one</strong> letter appears an <strong>odd</strong> number of times.</p>
+<h2><a href="https://leetcode.com/problems/number-of-wonderful-substrings">Number of Wonderful Substrings</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>A <strong>wonderful</strong> string is a string where <strong>at most one</strong> letter appears an <strong>odd</strong> number of times.</p>
 
 <ul>
 	<li>For example, <code>&quot;ccjjc&quot;</code> and <code>&quot;abab&quot;</code> are wonderful, but <code>&quot;ab&quot;</code> is not.</li>
