@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long wonderfulSubstrings(string word) {
-        map<int, long long> mp;
+        unordered_map<int, int> mp;
 
         long long ans = 0;
         int p = 0;
