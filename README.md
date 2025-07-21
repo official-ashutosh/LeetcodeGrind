@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0076-minimum-window-substring) |
 | [0316-remove-duplicate-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0443-string-compression) |
 | [0878-shifting-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0878-shifting-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0075-sort-colors) |
+| [0443-string-compression](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0475-heaters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
