@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i">3535. Find the Count of Monotonic Pairs I</a></h2><h3>Hard</h3><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i">Find the Count of Monotonic Pairs I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code> of length <code>n</code>.</p>
 
 <p>We call a pair of <strong>non-negative</strong> integer arrays <code>(arr1, arr2)</code> <strong>monotonic</strong> if:</p>
 
