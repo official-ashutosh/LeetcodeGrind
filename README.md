@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-number-of-wonderful-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2044-number-of-wonderful-substrings) |
 | [2465-shifting-letters-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2465-shifting-letters-ii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Array
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1788-stone-game-vi](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1788-stone-game-vi) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Sorting
 |  |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3618-find-the-original-typed-string-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3618-find-the-original-typed-string-ii) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
