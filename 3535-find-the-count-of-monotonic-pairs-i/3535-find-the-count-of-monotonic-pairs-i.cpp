@@ -12,7 +12,7 @@ public:
         int n = a.size();
         int ans= 0;
 
-        for(int i=0; i<=a[id]; i++){
+        for(int i=p1; i<=a[id]; i++){
             if(a[id]-i <= p2 && i >= p1){
                 ans = (ans + func(id+1, i, a[id]-i, a)) % mod;
             }
