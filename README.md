@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0051-n-queens) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Heap (Priority Queue)
 |  |
