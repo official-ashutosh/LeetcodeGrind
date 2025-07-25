@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0075-sort-colors) |
+| [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
 | [0475-heaters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0475-heaters) |
 | [0498-diagonal-traverse](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0498-diagonal-traverse) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
 | [0687-longest-univalue-path](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0687-longest-univalue-path) |
 | [0922-possible-bipartition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0922-possible-bipartition) |
 | [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0498-diagonal-traverse) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Queue
@@ -365,10 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
 | [0922-possible-bipartition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0922-possible-bipartition) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
 | [0922-possible-bipartition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0922-possible-bipartition) |
 ## Graph
 |  |
