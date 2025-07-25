@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2465-shifting-letters-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2465-shifting-letters-ii) |
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2044-number-of-wonderful-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2044-number-of-wonderful-substrings) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0687-longest-univalue-path](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0687-longest-univalue-path) |
 | [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Depth-First Search
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0922-possible-bipartition) |
 | [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Linked List
 |  |
