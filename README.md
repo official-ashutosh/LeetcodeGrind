@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0075-sort-colors) |
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0075-sort-colors) |
 | [0443-string-compression](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0443-string-compression) |
