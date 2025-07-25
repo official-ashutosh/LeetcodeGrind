@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-count-number-of-texts](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2348-count-number-of-texts) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2465-shifting-letters-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2465-shifting-letters-ii) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2577-count-palindromic-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2577-count-palindromic-subsequences) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3396-valid-word) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2504-find-all-good-indices](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2504-find-all-good-indices) |
 | [2529-range-product-queries-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2529-range-product-queries-of-powers) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
