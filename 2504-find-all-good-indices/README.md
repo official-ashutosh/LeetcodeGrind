@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-all-good-indices">2504. Find All Good Indices</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of size <code>n</code> and a positive integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-all-good-indices">Find All Good Indices</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> of size <code>n</code> and a positive integer <code>k</code>.</p>
 
 <p>We call an index <code>i</code> in the range <code>k &lt;= i &lt; n - k</code> <strong>good</strong> if the following conditions are satisfied:</p>
 
