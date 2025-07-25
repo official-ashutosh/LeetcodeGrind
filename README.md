@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0687-longest-univalue-path](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0687-longest-univalue-path) |
 | [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0687-longest-univalue-path](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0687-longest-univalue-path) |
 | [0922-possible-bipartition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0922-possible-bipartition) |
 | [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0687-longest-univalue-path](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0687-longest-univalue-path) |
 | [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0922-possible-bipartition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0922-possible-bipartition) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
@@ -480,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
