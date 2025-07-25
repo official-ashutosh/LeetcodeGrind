@@ -10,10 +10,10 @@ public:
                 prefixes.insert(num & mask);
             }
             
-            int candidate = ans | (1 << i);
+            int ans2 = ans | (1 << i);
             for(auto p : prefixes) {
-                if(prefixes.count(p ^ candidate)) {
-                    ans = candidate;
+                if(prefixes.count(p ^ ans2)) {
+                    ans = ans2;
                     break;
                 }
             }
