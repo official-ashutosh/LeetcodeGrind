@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Array
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Math
 |  |
 | ------- |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
 | [0880-rectangle-area-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0880-rectangle-area-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Tree
 |  |
 | ------- |
