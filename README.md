@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3791-fruits-into-baskets-iii) |
 ## Math
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [3791-fruits-into-baskets-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
 | [0880-rectangle-area-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0880-rectangle-area-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3791-fruits-into-baskets-iii) |
 ## Tree
 |  |
 | ------- |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0880-rectangle-area-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0880-rectangle-area-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3791-fruits-into-baskets-iii) |
 ## Trie
 |  |
 | ------- |
