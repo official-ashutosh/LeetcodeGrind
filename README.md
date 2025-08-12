@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2504-find-all-good-indices](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2504-find-all-good-indices) |
 | [2577-count-palindromic-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2577-count-palindromic-subsequences) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
