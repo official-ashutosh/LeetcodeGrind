@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0475-heaters) |
 | [0498-diagonal-traverse](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0679-24-game) |
 | [0878-shifting-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0878-shifting-letters) |
 | [0880-rectangle-area-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0880-rectangle-area-ii) |
 | [0940-fruit-into-baskets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0940-fruit-into-baskets) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0679-24-game) |
 | [0856-consecutive-numbers-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0856-consecutive-numbers-sum) |
 | [0867-new-21-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0900-reordered-power-of-2) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0051-n-queens) |
+| [0679-24-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Heap (Priority Queue)
 |  |
