@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2465-shifting-letters-ii) |
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1788-stone-game-vi) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2348-count-number-of-texts](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2348-count-number-of-texts) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
