@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0049-group-anagrams) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0166-fraction-to-recurring-decimal) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0498-diagonal-traverse) |
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
