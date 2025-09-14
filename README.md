@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0443-string-compression) |
 | [0878-shifting-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0878-shifting-letters) |
+| [1006-vowel-spellchecker](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1006-vowel-spellchecker) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-rectangle-area-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0880-rectangle-area-ii) |
 | [0940-fruit-into-baskets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1006-vowel-spellchecker) |
 | [1046-max-consecutive-ones-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1046-max-consecutive-ones-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1370-count-number-of-nice-subarrays) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1006-vowel-spellchecker) |
 | [1370-count-number-of-nice-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-find-lucky-integer-in-an-array) |
