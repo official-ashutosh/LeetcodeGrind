@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [3791-fruits-into-baskets-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3797-design-spreadsheet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3827-implement-router) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0880-rectangle-area-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0880-rectangle-area-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3827-implement-router) |
 ## Trie
 |  |
 | ------- |
@@ -530,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3827-implement-router) |
 ## Breadth-First Search
 |  |
 | ------- |
