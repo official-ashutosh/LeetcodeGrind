@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2348-count-number-of-texts](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2348-count-number-of-texts) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3336-water-bottles-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3336-water-bottles-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
+| [3336-water-bottles-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
