@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
 |  |
 | ------- |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
 | ------- |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -642,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
