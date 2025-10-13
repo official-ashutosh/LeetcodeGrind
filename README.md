@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2044-number-of-wonderful-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2044-number-of-wonderful-substrings) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1006-vowel-spellchecker) |
 | [1046-max-consecutive-ones-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1046-max-consecutive-ones-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0900-reordered-power-of-2) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1788-stone-game-vi](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1788-stone-game-vi) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-find-lucky-integer-in-an-array) |
