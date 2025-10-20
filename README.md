@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2044-number-of-wonderful-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2044-number-of-wonderful-substrings) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2317-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2317-count-collisions-on-a-road) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2023-design-movie-rental-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0498-diagonal-traverse) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2317-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2317-count-collisions-on-a-road) |
