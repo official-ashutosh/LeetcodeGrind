@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1788-stone-game-vi](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1788-stone-game-vi) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2348-count-number-of-texts](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2348-count-number-of-texts) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2023-design-movie-rental-system) |
 | [2044-number-of-wonderful-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2044-number-of-wonderful-substrings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2348-count-number-of-texts](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2348-count-number-of-texts) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0051-n-queens) |
 | [0679-24-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
