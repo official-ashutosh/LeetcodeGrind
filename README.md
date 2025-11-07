@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1813-maximum-erasure-value) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2504-find-all-good-indices) |
 | [2529-range-product-queries-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2529-range-product-queries-of-powers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2597-cycle-length-queries-in-a-tree) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -668,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3827-implement-router) |
 ## Breadth-First Search
 |  |
