@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3396-valid-word) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3618-find-the-original-typed-string-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
