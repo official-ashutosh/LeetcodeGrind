@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1788-stone-game-vi](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1788-stone-game-vi) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2202-sum-of-k-mirror-numbers) |
