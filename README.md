@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2465-shifting-letters-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2465-shifting-letters-ii) |
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-count-number-of-texts](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2348-count-number-of-texts) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2504-find-all-good-indices](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2504-find-all-good-indices) |
 | [2577-count-palindromic-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2577-count-palindromic-subsequences) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
