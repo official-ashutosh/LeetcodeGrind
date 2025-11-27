@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3618-find-the-original-typed-string-ii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
