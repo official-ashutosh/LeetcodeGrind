@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2211-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2317-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2317-count-collisions-on-a-road) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0498-diagonal-traverse) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2288-count-operations-to-obtain-zero) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2211-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2211-count-collisions-on-a-road) |
 | [2317-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2317-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
