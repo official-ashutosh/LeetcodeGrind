@@ -12,11 +12,10 @@ public:
 
         if(!c0) return 0; 
         if(k==1) return c0;
-        if(k==n && c1) return -1; 
-        if(k==c0) return 1; 
+        if(k==n && c1) return -1;
 
 
-        for(int i=2; i<=n; i++) { 
+        for(int i=1; i<=n; i++) { 
             int tot = k*i;
 
             if(tot < c0) continue;
