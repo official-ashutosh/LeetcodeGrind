@@ -12,7 +12,6 @@ public:
 
         if(!c0) return 0; 
         if(k==1) return c0;
-        if(k==n && c1) return -1;
 
 
         for(int i=1; i<=n; i++) { 
