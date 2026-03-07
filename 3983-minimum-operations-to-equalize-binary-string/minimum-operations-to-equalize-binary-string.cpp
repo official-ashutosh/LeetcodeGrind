@@ -10,11 +10,9 @@ public:
             else c0++;
         }
 
-        if(!c0) return 0; 
         if(k==1) return c0;
 
-
-        for(int i=1; i<=n; i++) { 
+        for(int i=0; i<=n; i++) { 
             int tot = k*i;
 
             if(tot < c0) continue;
