@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2504-find-all-good-indices](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2504-find-all-good-indices) |
+| [2518-number-of-great-partitions](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2518-number-of-great-partitions) |
 | [2529-range-product-queries-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2529-range-product-queries-of-powers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2597-cycle-length-queries-in-a-tree) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2504-find-all-good-indices](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2504-find-all-good-indices) |
+| [2518-number-of-great-partitions](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2518-number-of-great-partitions) |
 | [2577-count-palindromic-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2577-count-palindromic-subsequences) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
