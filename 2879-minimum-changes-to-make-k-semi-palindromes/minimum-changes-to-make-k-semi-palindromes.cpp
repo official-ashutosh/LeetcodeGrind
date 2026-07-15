@@ -5,8 +5,6 @@ public:
 
     int cst(string &s, int i, int j) {
         int len = j-i+1;
-
-        if(len < 2) return 1e9; 
         if(pal[i][j] != -1) return pal[i][j];
         
         int ans = 1e9;
@@ -37,12 +35,12 @@ public:
             return (i == s.size()) ? 0 : 1e9;
         }
         
-        if(s.size()-i < ct*2) return 1e9;
+        if(i == s.size()) return 1e9;
 
         if(dp[i][ct] != -1) return dp[i][ct];
         
         int ans = 1e9; 
-        for(int j=i+1; j<s.size(); j++) {
+        for(int j=i+1; j<s.size(); j++){
             
             ans = min(ans, cst(s, i, j) + func(j+1, ct-1, s));
             
