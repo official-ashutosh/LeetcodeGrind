@@ -42,7 +42,7 @@ public:
         if(dp[i][ct] != -1) return dp[i][ct];
         
         int ans = 1e9; 
-        for(int j=i+1; j<s.size()-(ct-1)*2; j++) {
+        for(int j=i+1; j<s.size(); j++) {
             int ans2 = cst(s, i, j);
             if(ans2 != 1e9) {
                 ans = min(ans, ans2 + func(j+1, ct-1, s));
