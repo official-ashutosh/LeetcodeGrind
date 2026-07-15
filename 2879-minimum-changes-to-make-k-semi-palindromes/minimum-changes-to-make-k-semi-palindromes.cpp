@@ -43,10 +43,9 @@ public:
         
         int ans = 1e9; 
         for(int j=i+1; j<s.size(); j++) {
-            int ans2 = cst(s, i, j);
-            if(ans2 != 1e9) {
-                ans = min(ans, ans2 + func(j+1, ct-1, s));
-            }
+            
+            ans = min(ans, cst(s, i, j) + func(j+1, ct-1, s));
+            
         }
 
         return dp[i][ct] = ans;
