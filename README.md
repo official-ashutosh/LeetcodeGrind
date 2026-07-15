@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1006-vowel-spellchecker) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1278-palindrome-partitioning-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1278-palindrome-partitioning-iii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0867-new-21-game) |
 | [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1278-palindrome-partitioning-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1278-palindrome-partitioning-iii) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
