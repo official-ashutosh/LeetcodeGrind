@@ -5,8 +5,6 @@ public:
 
     int cst(string &s, int i, int j) {
         int len = j-i+1;
-
-        if(len < 2) return 1e9; 
         if(pal[i][j] != -1) return pal[i][j];
         
         int ans = 1e9;
