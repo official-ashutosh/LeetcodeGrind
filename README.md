@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-max-consecutive-ones-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1046-max-consecutive-ones-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1370-count-number-of-nice-subarrays) |
