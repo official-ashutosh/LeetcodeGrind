@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3678-design-task-manager) |
@@ -653,11 +656,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
 | [0880-rectangle-area-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0880-rectangle-area-ii) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3791-fruits-into-baskets-iii) |
 ## Tree
@@ -716,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2211-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2211-count-collisions-on-a-road) |
 | [2317-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2317-count-collisions-on-a-road) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -725,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Line Sweep
 |  |
