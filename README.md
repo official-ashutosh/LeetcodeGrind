@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1745-palindrome-partitioning-iv](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1745-palindrome-partitioning-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2044-number-of-wonderful-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1788-stone-game-vi](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1788-stone-game-vi) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2197-replace-non-coprime-numbers-in-array) |
