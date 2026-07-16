@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
+| [0901-online-stock-span](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0901-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2169-simple-bank-system) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0901-online-stock-span) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0901-online-stock-span) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -865,4 +868,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
