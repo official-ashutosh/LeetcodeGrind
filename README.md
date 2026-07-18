@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2023-design-movie-rental-system) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1788-stone-game-vi](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1788-stone-game-vi) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3312-sorted-gcd-pair-queries](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3312-sorted-gcd-pair-queries) |
