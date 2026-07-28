@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2518-number-of-great-partitions](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2518-number-of-great-partitions) |
 | [2529-range-product-queries-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2529-range-product-queries-of-powers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2584-split-the-array-to-make-coprime-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2348-count-number-of-texts](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2348-count-number-of-texts) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2584-split-the-array-to-make-coprime-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-count-number-of-texts](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2348-count-number-of-texts) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
+| [2584-split-the-array-to-make-coprime-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -909,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2584-split-the-array-to-make-coprime-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3312-sorted-gcd-pair-queries](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
