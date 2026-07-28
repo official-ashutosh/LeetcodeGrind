@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1788-stone-game-vi](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1788-stone-game-vi) |
 | [1813-maximum-erasure-value](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1813-maximum-erasure-value) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1917-maximum-average-pass-ratio) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1788-stone-game-vi](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1788-stone-game-vi) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1813-maximum-erasure-value) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
