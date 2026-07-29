@@ -890,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0922-possible-bipartition) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -971,4 +972,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2426-number-of-pairs-satisfying-inequality) |
+## Graph Theory
+|  |
+| ------- |
+| [2608-shortest-cycle-in-a-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2608-shortest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
