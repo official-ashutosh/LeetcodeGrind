@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
+| [0335-self-crossing](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0335-self-crossing) |
 | [0407-trapping-rain-water-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0012-integer-to-roman) |
 | [0166-fraction-to-recurring-decimal](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0679-24-game) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0335-self-crossing](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0335-self-crossing) |
 | [3623-count-number-of-trapezoids-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Monotonic Queue
