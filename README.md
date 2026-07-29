@@ -984,4 +984,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2608-shortest-cycle-in-a-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2608-shortest-cycle-in-a-graph) |
+## Database
+|  |
+| ------- |
+| [0626-exchange-seats](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
