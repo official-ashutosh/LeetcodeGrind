@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2931-maximum-spending-after-buying-items](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2931-maximum-spending-after-buying-items) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2931-maximum-spending-after-buying-items](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2931-maximum-spending-after-buying-items) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2887-sort-vowels-in-a-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2887-sort-vowels-in-a-string) |
+| [2931-maximum-spending-after-buying-items](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2931-maximum-spending-after-buying-items) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
+| [2931-maximum-spending-after-buying-items](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2931-maximum-spending-after-buying-items) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -853,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2931-maximum-spending-after-buying-items](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2931-maximum-spending-after-buying-items) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
