@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0091-decode-ways) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0097-interleaving-string) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0046-permutations) |
@@ -1048,4 +1051,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
