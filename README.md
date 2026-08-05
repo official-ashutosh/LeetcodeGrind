@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
+| [0312-burst-balloons](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0312-burst-balloons) |
 | [0335-self-crossing](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0335-self-crossing) |
 | [0407-trapping-rain-water-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0417-pacific-atlantic-water-flow) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0119-pascals-triangle-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0312-burst-balloons](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0312-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0826-soup-servings) |
