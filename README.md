@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1745-palindrome-partitioning-iv](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1745-palindrome-partitioning-iv) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2348-count-number-of-texts](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2348-count-number-of-texts) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
