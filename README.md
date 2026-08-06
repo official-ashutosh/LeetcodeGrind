@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3513-number-of-unique-xor-triplets-i) |
