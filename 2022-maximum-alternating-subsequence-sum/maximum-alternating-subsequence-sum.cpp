@@ -1,25 +1,17 @@
 class Solution {
 public:
 
-    long long func(int id, int fl, vector<int> &a, vector<vector<long long>> &dp){
-        if(id == a.size()) return 0ll;
-        if(dp[id][fl] != -1) return dp[id][fl];
-
-        long long ans = 0;
-        ans = max(ans, func(id+1, fl, a, dp));
-        if(fl){
-            ans = max(ans, func(id+1, 0, a, dp) - a[id]);
-        } else {
-            ans = max(ans, func(id+1, 1, a, dp) + a[id]);
-        }
-
-        return dp[id][fl] = ans;
-    }
-
     long long maxAlternatingSum(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<long long>> dp(n+1, vector<long long>(2, -1));
-        long long ans = func(0, 0, nums, dp);
-        return ans;
+        long long sum1 = 0, sum2 = 0;
+        for(int i=0; i<n; i++){
+            long long sum3 = 0, sum4 = 0;
+            sum3 = max(sum1, sum2+nums[i]);
+            sum4 = max(sum2, sum1-nums[i]);
+
+            sum1 = sum3;
+            sum2 = sum4;
+        }
+        return sum1;
     }
 };
