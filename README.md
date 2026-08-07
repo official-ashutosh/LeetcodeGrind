@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0594-longest-harmonious-subsequence) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-new-21-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0209-minimum-size-subarray-sum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0878-shifting-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0794-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0815-bus-routes) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0877-stone-game) |
 | [0878-shifting-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0878-shifting-letters) |
 | [0880-rectangle-area-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0880-rectangle-area-ii) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0794-swim-in-rising-water) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1046-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1539-kth-missing-positive-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1612-avoid-flood-in-the-city) |
@@ -734,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0794-swim-in-rising-water) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1612-avoid-flood-in-the-city) |
@@ -953,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0387-first-unique-character-in-a-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -1044,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Data Stream
 |  |
