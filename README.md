@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0137-single-number-ii) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0209-minimum-size-subarray-sum) |
