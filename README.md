@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1642-furthest-building-you-can-reach) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1788-stone-game-vi](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1788-stone-game-vi) |
 | [1813-maximum-erasure-value](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1813-maximum-erasure-value) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1642-furthest-building-you-can-reach) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1788-stone-game-vi](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1788-stone-game-vi) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1788-stone-game-vi](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1788-stone-game-vi) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -953,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0794-swim-in-rising-water) |
 | [1260-shift-2d-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1260-shift-2d-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
