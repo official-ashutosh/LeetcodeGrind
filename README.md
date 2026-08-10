@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-stone-removal-game) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-stone-removal-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
