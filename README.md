@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2552-count-increasing-quadruplets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2552-count-increasing-quadruplets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2504-find-all-good-indices) |
 | [2529-range-product-queries-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2529-range-product-queries-of-powers) |
+| [2552-count-increasing-quadruplets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2552-count-increasing-quadruplets) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3312-sorted-gcd-pair-queries) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2518-number-of-great-partitions](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2518-number-of-great-partitions) |
 | [2529-range-product-queries-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2529-range-product-queries-of-powers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2552-count-increasing-quadruplets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2552-count-increasing-quadruplets) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2504-find-all-good-indices](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2504-find-all-good-indices) |
 | [2518-number-of-great-partitions](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2518-number-of-great-partitions) |
+| [2552-count-increasing-quadruplets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2552-count-increasing-quadruplets) |
 | [2577-count-palindromic-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2577-count-palindromic-subsequences) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -830,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0493-reverse-pairs) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [2552-count-increasing-quadruplets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2552-count-increasing-quadruplets) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
