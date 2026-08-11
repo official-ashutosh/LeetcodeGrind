@@ -1,34 +1,23 @@
 class Solution {
-public:  
-    static int largestSubmatrix(vector<vector<int>>& matrix) {
-        int m = matrix.size(), n = matrix[0].size();
+public:
+    int largestSubmatrix(vector<vector<int>>& matrix) {
+        int n = matrix.size(), m = matrix[0].size();
+        vector<int> h(m);
         int ans = 0;
-        
-        for(int i=0; i<m; i++){
 
-            if(i > 0){
-            for(int j=0;  j<n; j++){
-                matrix[i][j]+=matrix[i][j]*matrix[i-1][j];
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(matrix[i][j]) h[j]++;
+                else h[j] = 0;
             }
-            }
-            const auto& row=matrix[i];
-            int minH=i+1, maxH=0;
-            for(int x: row){
-                minH=min(minH, x);
-                maxH=max(maxH, x);
-            }
-            vector<int> freq(maxH-minH+1, 0);
-            for(int x: row){
-                freq[x-minH]++;
-            }
-            int acc=0;
-            for(int x=maxH-minH; acc<n; x--){
-                if (freq[x]>0){
-                    acc+=freq[x];
-                    ans=max(ans, acc*(x+minH));
-                }
-            }  
+
+            vector<int> v = h;
+            sort(v.rbegin(), v.rend());
+
+            for(int j=0; j<m; j++)
+                ans = max(ans, v[j]*(j+1));
         }
+
         return ans;
     }
 };
