@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-minimize-xor](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2429-minimize-xor) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2317-maximum-xor-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2317-maximum-xor-after-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-minimize-xor](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2429-minimize-xor) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
