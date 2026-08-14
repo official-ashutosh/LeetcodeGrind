@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2887-sort-vowels-in-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3396-valid-word) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1813-maximum-erasure-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3312-sorted-gcd-pair-queries) |
