@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1813-maximum-erasure-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [2931-maximum-spending-after-buying-items](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2931-maximum-spending-after-buying-items) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -972,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0648-replace-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Matrix
 |  |
 | ------- |
