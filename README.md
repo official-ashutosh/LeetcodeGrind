@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1006-vowel-spellchecker](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1006-vowel-spellchecker) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1043-partition-array-for-maximum-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1046-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1260-shift-2d-grid) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0877-stone-game) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
+| [1043-partition-array-for-maximum-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1278-palindrome-partitioning-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1278-palindrome-partitioning-iii) |
