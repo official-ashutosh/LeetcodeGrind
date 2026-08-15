@@ -6,9 +6,9 @@ public:
 
         int mx = 0, ans = 0;
 
-        for(int j = i; j < min((int)arr.size(), i + k); j++) {
+        for(int j=i; j<min((int)arr.size(), i+k); j++) {
             mx = max(mx, arr[j]);
-            ans = max(ans, mx * (j - i + 1) + solve(j + 1, arr, k, dp));
+            ans = max(ans, mx*(j-i+1) + solve(j+1, arr, k, dp));
         }
 
         return dp[i] = ans;
