@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-find-longest-awesome-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1542-find-longest-awesome-substring) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1271,16 +1272,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
