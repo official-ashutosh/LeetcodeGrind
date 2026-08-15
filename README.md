@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2887-sort-vowels-in-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1273,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1291,8 +1293,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 <!---LeetCode Topics End-->
