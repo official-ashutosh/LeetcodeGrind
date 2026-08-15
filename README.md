@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [0648-replace-words](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0648-replace-words) |
+| [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
 | [0878-shifting-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0878-shifting-letters) |
 | [0890-find-and-replace-pattern](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0890-find-and-replace-pattern) |
 | [1006-vowel-spellchecker](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1006-vowel-spellchecker) |
@@ -1266,4 +1267,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
