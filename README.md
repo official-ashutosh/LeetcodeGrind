@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-water-bottles-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3336-water-bottles-ii) |
 | [3360-stone-removal-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-stone-removal-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
