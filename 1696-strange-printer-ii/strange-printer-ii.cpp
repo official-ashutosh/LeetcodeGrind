@@ -5,22 +5,22 @@ public:
         int n = targetGrid.size();
         int m = targetGrid[0].size();
 
-        vector<vector<int>> v(61, vector<int>(4, 0));
+        vector<vector<int>> v(61, vector<int>(4));
 
-        for (int i = 1; i < 61; i++) {
-            v[i][0] = INT_MAX;
-            v[i][1] = INT_MAX;
-            v[i][2] = INT_MIN;
-            v[i][3] = INT_MIN;
+        for(int col=1; col<61; col++) {
+            v[col][0] = INT_MAX;
+            v[col][1] = INT_MAX;
+            v[col][2] = INT_MIN;
+            v[col][3] = INT_MIN;
         }
 
-        map<int, int> mp;
+        set<int> s;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
 
                 int col = targetGrid[i][j];
-                mp[col]++;
+                s.insert(col);
 
                 v[col][0] = min(v[col][0], i);
                 v[col][1] = min(v[col][1], j);
@@ -29,64 +29,59 @@ public:
             }
         }
 
-        unordered_set<int> s;
+        vector<vector<int>> graph(61);
+        vector<int> indegree(61, 0);
 
-        vector<vector<int>> a(n + 1, vector<int>(m + 1, 0));
+        for(auto col : s){
 
-        while (s.size() < mp.size()) {
+            int r1 = v[col][0];
+            int c1 = v[col][1];
+            int r2 = v[col][2];
+            int c2 = v[col][3];
 
-            bool found = false;
+            set<int> seen;
 
-            for (int col = 1; col < 61; col++) {
+            for(int i=r1; i<=r2; i++){
+                for(int j=c1; j<=c2; j++){
 
-                if (!mp.count(col) || s.count(col))
-                    continue;
+                    int cr = targetGrid[i][j];
 
-                vector<vector<int>> pre(n + 1, vector<int>(m + 1, 0));
+                    if(cr != col && !seen.count(cr)){
 
-                for (int i = 0; i < n; i++) {
-                    for (int j = 0; j < m; j++) {
+                        graph[cr].push_back(col);
+                        indegree[col]++;
 
-                        int ri = 0;
-
-                        if (targetGrid[i][j] != col &&
-                            !s.count(targetGrid[i][j])) {
-                            ri = 1;
-                        }
-
-                        pre[i + 1][j + 1] =
-                            pre[i][j + 1] +
-                            pre[i + 1][j] -
-                            pre[i][j] +
-                            ri;
+                        seen.insert(cr);
                     }
                 }
-
-                int co = -1;
-
-                auto cordd = v[col];
-
-                int r1 = cordd[0];
-                int c1 = cordd[1];
-                int r2 = cordd[2];
-                int c2 = cordd[3];
-
-                int sum =
-                    pre[r2 + 1][c2 + 1]
-                    - pre[r1][c2 + 1]
-                    - pre[r2 + 1][c1]
-                    + pre[r1][c1];
-
-                if (sum == 0) {
-                    s.insert(col);
-                    found = true;
-                }
             }
-
-            if (!found)
-                return false;
         }
 
-        return true;
+        queue<int> q;
+
+        for(auto col : s){
+            if(indegree[col] == 0)
+                q.push(col);
+        }
+
+        int done = 0;
+
+        while(!q.empty()){
+
+            auto col = q.front();
+            q.pop();
+
+            done++;
+
+            for(auto next : graph[col]){
+
+                indegree[next]--;
+
+                if(indegree[next] == 0)
+                    q.push(next);
+            }
+        }
+
+        return done == s.size();
     }
 };
