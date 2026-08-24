@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1590-make-sum-divisible-by-p) |
+| [1591-strange-printer-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1591-strange-printer-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1073,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0794-swim-in-rising-water) |
 | [1260-shift-2d-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1260-shift-2d-grid) |
+| [1591-strange-printer-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1591-strange-printer-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1213,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1584-min-cost-to-connect-all-points) |
+| [1591-strange-printer-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1591-strange-printer-ii) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Database
 |  |
@@ -1328,4 +1331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0391-perfect-rectangle) |
+## Topological Sort
+|  |
+| ------- |
+| [1591-strange-printer-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1591-strange-printer-ii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1591-strange-printer-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1591-strange-printer-ii) |
 <!---LeetCode Topics End-->
