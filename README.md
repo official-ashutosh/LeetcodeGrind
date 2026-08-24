@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0312-burst-balloons) |
 | [0335-self-crossing](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0391-perfect-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0342-power-of-four) |
+| [0391-perfect-rectangle](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0391-perfect-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0826-soup-servings) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0219-contains-duplicate-ii) |
 | [0355-design-twitter](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0387-first-unique-character-in-a-string) |
+| [0391-perfect-rectangle](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0391-perfect-rectangle) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0460-lfu-cache) |
@@ -1184,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0391-perfect-rectangle) |
 | [3623-count-number-of-trapezoids-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Monotonic Queue
@@ -1320,4 +1324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
