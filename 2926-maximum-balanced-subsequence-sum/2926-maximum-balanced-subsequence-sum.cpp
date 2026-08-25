@@ -11,8 +11,8 @@ public:
             return mx;
 
         // key = nums[i] - i
-        // {best sum ending with this key, index}
-        map<long long, pair<long long, long long>> mp;
+        // {best sum ending with this key}
+        map<long long, long long> mp;
 
         long long ans = 0;
 
@@ -28,7 +28,7 @@ public:
 
             if(j != mp.begin()){
                 --j;
-                cur += j->second.first;
+                cur += j->second;
             }
 
             ans = max(ans, cur);
@@ -36,17 +36,17 @@ public:
             auto it = mp.find(key);
 
             if(it != mp.end()){
-                if(it->second.first >= cur)
+                if(it->second >= cur)
                     continue;
 
-                it->second = {cur, i};
+                it->second = cur;
             } else {
-                it = mp.insert({key, {cur, i}}).first;
+                it = mp.insert({key, cur}).first;
             }
 
             auto k = next(it);
 
-            while(k != mp.end() && k->second.first <= cur){
+            while(k != mp.end() && k->second <= cur){
                 auto temp = k;
                 k++;
                 mp.erase(temp);
