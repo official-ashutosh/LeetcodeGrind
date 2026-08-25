@@ -3,11 +3,11 @@ public:
     long long maxBalancedSubsequenceSum(vector<int>& nums) {
         long long mx = nums[0];
 
-        for (auto i : nums) {
+        for(auto i : nums){
             mx = max(mx, (long long)i);
         }
 
-        if (mx <= 0)
+        if(mx <= 0)
             return mx;
 
         // key = nums[i] - i
@@ -16,20 +16,19 @@ public:
 
         long long ans = 0;
 
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] <= 0)
+        for(int i=0; i<nums.size(); i++){
+            if(nums[i] <= 0)
                 continue;
 
-            long long key = (long long)nums[i] - i;
+            long long key = nums[i]-i;
 
-            // Best previous state having previous key <= current key
             auto j = mp.upper_bound(key);
 
             long long cur = nums[i];
 
-            if (j != mp.begin()) {
+            if(j != mp.begin()){
                 --j;
-                cur = max(cur, nums[i] + j->second.first);
+                cur += j->second.first;
             }
 
             ans = max(ans, cur);
