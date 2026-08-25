@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0090-subsets-ii) |
 | [0679-24-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0679-24-game) |
+| [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Heap (Priority Queue)
