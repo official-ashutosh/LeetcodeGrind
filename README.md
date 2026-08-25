@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3102-minimize-manhattan-distances](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3102-minimize-manhattan-distances) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
+| [3102-minimize-manhattan-distances](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3102-minimize-manhattan-distances) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3312-sorted-gcd-pair-queries](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3336-water-bottles-ii) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2931-maximum-spending-after-buying-items](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2931-maximum-spending-after-buying-items) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3102-minimize-manhattan-distances](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3102-minimize-manhattan-distances) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1050,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2023-design-movie-rental-system) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [3102-minimize-manhattan-distances](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3102-minimize-manhattan-distances) |
 | [3678-design-task-manager](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3827-implement-router) |
@@ -1190,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0335-self-crossing](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0391-perfect-rectangle) |
+| [3102-minimize-manhattan-distances](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3102-minimize-manhattan-distances) |
 | [3623-count-number-of-trapezoids-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Monotonic Queue
