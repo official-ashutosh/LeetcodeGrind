@@ -33,11 +33,10 @@ public:
 
             ans = max(ans, cur);
 
-            // Same key already exists
             auto it = mp.find(key);
 
-            if (it != mp.end()) {
-                if (it->second.first >= cur)
+            if(it != mp.end()){
+                if(it->second.first >= cur)
                     continue;
 
                 it->second = {cur, i};
@@ -45,18 +44,11 @@ public:
                 it = mp.insert({key, {cur, i}}).first;
             }
 
-            /*
-                Remove states to the right that are dominated by
-                the current state.
-
-                If current key is >= old key and current sum is >= old sum,
-                old state can never be better for any future element.
-            */
             auto k = next(it);
 
-            while (k != mp.end() && k->second.first <= cur) {
+            while(k != mp.end() && k->second.first <= cur){
                 auto temp = k;
-                ++k;
+                k++;
                 mp.erase(temp);
             }
         }
