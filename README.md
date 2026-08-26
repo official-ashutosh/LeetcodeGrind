@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-count-increasing-quadruplets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2552-count-increasing-quadruplets) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2597-cycle-length-queries-in-a-tree) |
+| [2612-minimum-reverse-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2612-minimum-reverse-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2479-meeting-rooms-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2479-meeting-rooms-iii) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2584-split-the-array-to-make-coprime-products) |
+| [2612-minimum-reverse-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2612-minimum-reverse-operations) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1069,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2023-design-movie-rental-system) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [2612-minimum-reverse-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2612-minimum-reverse-operations) |
 | [3102-minimize-manhattan-distances](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3102-minimize-manhattan-distances) |
 | [3678-design-task-manager](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3791-fruits-into-baskets-iii) |
@@ -1134,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2608-shortest-cycle-in-a-graph) |
+| [2612-minimum-reverse-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2612-minimum-reverse-operations) |
 ## Union Find
 |  |
 | ------- |
@@ -1292,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1584-min-cost-to-connect-all-points) |
+| [2612-minimum-reverse-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2612-minimum-reverse-operations) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
