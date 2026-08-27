@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Backtracking
 |  |
 | ------- |
@@ -1135,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2931-maximum-spending-after-buying-items](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2931-maximum-spending-after-buying-items) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3748-sort-matrix-by-diagonals) |
