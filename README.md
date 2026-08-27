@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0312-burst-balloons) |
 | [0335-self-crossing](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0391-perfect-rectangle) |
+| [0403-frog-jump](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0312-burst-balloons](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0312-burst-balloons) |
+| [0403-frog-jump](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0826-soup-servings) |
