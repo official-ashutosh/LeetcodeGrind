@@ -769,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1406-stone-game-iii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1510-stone-game-iv](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-stone-game-iv) |
@@ -1378,4 +1379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
+## Graph Coloring
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
