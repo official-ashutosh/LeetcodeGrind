@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1383,4 +1385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
