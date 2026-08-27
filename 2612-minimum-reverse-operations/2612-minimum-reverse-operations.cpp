@@ -21,23 +21,31 @@ public:
         q.push(p);
         ans[p] = 0;
 
-        while (!q.empty()) {
-            int x = q.front();
+        while(!q.empty()){
+            auto x = q.front();
             q.pop();
 
-            int l = max(0, x - k + 1);
-            int r = min(x, n - k);
-            int a = 2 * l + k - 1 - x;
-            int b = 2 * r + k - 1 - x;
+            int l = max(0, x-k+1);
+            int r = min(x, n-k);
+            int a = 2*l + k-1-x;
+            int b = 2*r + k-1-x;
 
-            set<int>& s = (a & 1) ? s1 : s2;
-
-            auto it = s.lower_bound(a);
-            while (it != s.end() && *it <= b) {
-                int y = *it;
-                ans[y] = ans[x] + 1;
-                q.push(y);
-                it = s.erase(it);
+            if(a & 1){
+                auto it = s1.lower_bound(a);
+                while(it != s1.end() && *it <= b) {
+                    int y = *it;
+                    ans[y] = ans[x] + 1;
+                    q.push(y);
+                    it = s1.erase(it);
+                }
+            } else {
+                auto it = s2.lower_bound(a);
+                while(it != s2.end() && *it <= b) {
+                    int y = *it;
+                    ans[y] = ans[x] + 1;
+                    q.push(y);
+                    it = s2.erase(it);
+                }
             }
         }
 
