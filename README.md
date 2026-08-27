@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
+| [0514-freedom-trail](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0514-freedom-trail) |
 | [0648-replace-words](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
 | [0878-shifting-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0878-shifting-letters) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
+| [0514-freedom-trail](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0514-freedom-trail) |
 | [0826-soup-servings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0877-stone-game) |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0417-pacific-atlantic-water-flow) |
+| [0514-freedom-trail](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1143,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0417-pacific-atlantic-water-flow) |
+| [0514-freedom-trail](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0662-maximum-width-of-binary-tree) |
