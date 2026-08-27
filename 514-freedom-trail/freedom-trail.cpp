@@ -1,27 +1,31 @@
 class Solution {
 public:
-    int findRotateSteps(string ring, string key) {
-        int n = ring.size();
-        int m = key.size();
+    int n;
+    vector<vector<int>> dp;
 
-        vector<vector<int>> dp(m+1, vector<int>(n, 1e9));
-        dp[0][0] = 0;
+    int func(string &ring, string &key, int i, int pos){
+        if(i == key.size()) return 0;
 
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(dp[i][j] == 1e9) continue;
+        if(dp[i][pos] != -1) return dp[i][pos];
 
-                for(int k=0; k<n; k++){
-                    if(ring[k] != key[i]) continue;
+        int ans = 1e9;
 
-                    int d = abs(j-k);
-                    d = min(d, n-d);
+        for(int j=0; j<n; j++){
+            if(ring[j] == key[i]){
+                int d = abs(pos-j);
+                d = min(d, n-d);
 
-                    dp[i+1][k] = min(dp[i+1][k], dp[i][j]+d+1);
-                }
+                ans = min(ans, d+1 + func(ring, key, i+1, j));
             }
         }
 
-        return *min_element(dp[m].begin(), dp[m].end());
+        return dp[i][pos] = ans;
+    }
+
+    int findRotateSteps(string ring, string key) {
+        n = ring.size();
+        dp.assign(key.size(), vector<int>(n, -1));
+
+        return func(ring, key, 0, 0);
     }
 };
