@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int merge_count(int l, int r, vector<int> &nums){
+    void merge_count(int l, int r, vector<int> &nums){
         int mid = (l+r)/2;
 
         int n1 = mid-l+1;
@@ -16,14 +16,9 @@ public:
             ri[j] = nums[mid+j+1];
         }
 
-        int ans = 0;
-        int i=0, j=0;
-        for(i=0; i<n1; i++){
-            while(j < n2 && (le[i]) > 2ll*ri[j]) j++;
-            ans += j;
-        }
+        // int ans = 0;
 
-        i = 0, j = 0;
+        int i = 0, j = 0;
         int k = l;
         while(i < n1 && j < n2){
             if(le[i] <= ri[j]){
@@ -41,7 +36,6 @@ public:
             nums[k++] = ri[j++];
         }
 
-        return ans;
     }
 
     int mergesort(int l, int r, vector<int>&nums){
@@ -51,8 +45,15 @@ public:
 
             ans += mergesort(l, mid, nums);
             ans += mergesort(mid+1, r, nums);
+            int i=mid, j=r;
+            while(i>=l && j>mid){
+                if(nums[i] > 2ll*nums[j]){
+                    ans += (j-mid);
+                    i--;
+                } else j--;
+            }
 
-            ans += merge_count(l, r, nums);
+            merge_count(l, r, nums);
         }
         return ans;
     }
