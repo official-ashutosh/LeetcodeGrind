@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0890-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
+| [0975-odd-even-jump](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0975-odd-even-jump) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1006-vowel-spellchecker](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1006-vowel-spellchecker) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0846-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0900-reordered-power-of-2) |
+| [0975-odd-even-jump](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0975-odd-even-jump) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0877-stone-game) |
+| [0975-odd-even-jump](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0975-odd-even-jump) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
 | [1043-partition-array-for-maximum-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1043-partition-array-for-maximum-sum) |
@@ -1035,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0739-daily-temperatures) |
 | [0895-maximum-frequency-stack](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0901-online-stock-span) |
+| [0975-odd-even-jump](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0975-odd-even-jump) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1106-parsing-a-boolean-expression) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -1058,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0901-online-stock-span) |
+| [0975-odd-even-jump](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0975-odd-even-jump) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1079,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0732-my-calendar-iii) |
 | [0880-rectangle-area-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0880-rectangle-area-ii) |
 | [0895-maximum-frequency-stack](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0895-maximum-frequency-stack) |
+| [0975-odd-even-jump](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0975-odd-even-jump) |
 | [2023-design-movie-rental-system](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2023-design-movie-rental-system) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2426-number-of-pairs-satisfying-inequality) |
