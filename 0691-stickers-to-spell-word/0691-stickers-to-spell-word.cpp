@@ -1,51 +1,47 @@
 class Solution {
 public:
+
     unordered_map<string, int> dp;
 
-    int solve(vector<vector<int>>& stickers, string target) {
-        if (target.empty()) return 0;
+    int solve(vector<vector<int>>& st, string target){
+        if(target.empty()) return 0;
 
-        if (dp.count(target))
-            return dp[target];
+        if(dp.count(target)) return dp[target];
 
         int ans = 1e9;
 
-        for (auto &st : stickers) {
-            vector<int> cnt = st;
+        for(auto &v : st){
             string rem;
+            vector<int> ct = v;
 
-            for (char c : target) {
-                if (cnt[c - 'a'])
-                    cnt[c - 'a']--;
-                else
+            for(char c : target){
+                if(ct[c-'a'] > 0){
+                    ct[c-'a']--;
+                } else {
                     rem += c;
+                }
             }
 
-            // Sticker didn't help
-            if (rem == target)
-                continue;
+            if(rem == target) continue;
 
-            int x = solve(stickers, rem);
+            ans = min(ans, 1+solve(st, rem));
 
-            if (x != 1e9)
-                ans = min(ans, x + 1);
         }
 
         return dp[target] = ans;
     }
 
     int minStickers(vector<string>& stickers, string target) {
-        vector<vector<int>> v;
+        vector<vector<int>> st;
 
-        for (auto &s : stickers) {
-            vector<int> cnt(26, 0);
-            for (char c : s)
-                cnt[c - 'a']++;
-            v.push_back(cnt);
+        for (auto &s : stickers){
+            vector<int> cnt(26);
+            for(char c : s)
+                cnt[c-'a']++;
+            st.push_back(cnt);
         }
 
-        int ans = solve(v, target);
-
+        int ans = solve(st, target);
         return ans == 1e9 ? -1 : ans;
     }
 };
