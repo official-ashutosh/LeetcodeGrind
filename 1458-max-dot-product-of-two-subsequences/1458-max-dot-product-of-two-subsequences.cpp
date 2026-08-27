@@ -13,8 +13,7 @@ public:
                 if(dp[i-1][j-1] != INT_MIN)
                     take = max(take, dp[i-1][j-1] + nums1[i-1]*nums2[j-1]);
 
-                dp[i][j] = max({take, dp[i-1][j], dp[i][j-1]
-                });
+                dp[i][j] = max({take, dp[i-1][j], dp[i][j-1]});
             }
         }
 
