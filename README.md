@@ -1293,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0595-big-countries) |
 | [0626-exchange-seats](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0626-exchange-seats) |
+| [1068-product-sales-analysis-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1683-invalid-tweets) |
