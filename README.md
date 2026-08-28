@@ -1291,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0595-big-countries) |
 | [0626-exchange-seats](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0626-exchange-seats) |
 | [1757-recyclable-and-low-fat-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1757-recyclable-and-low-fat-products) |
 ## Doubly-Linked List
