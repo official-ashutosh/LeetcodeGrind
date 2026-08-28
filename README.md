@@ -1295,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1068-product-sales-analysis-i) |
