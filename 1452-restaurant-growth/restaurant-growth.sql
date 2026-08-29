@@ -4,15 +4,14 @@ SELECT
     (
         SELECT SUM(a.amount)
         FROM Customer a
-        WHERE a.visited_on BETWEEN DATE_SUB(c.visited_on, INTERVAL 6 DAY)
-                               AND c.visited_on
+        WHERE a.visited_on <= c.visited_on AND DATEDIFF(c.visited_on, a.visited_on) <7
     ) AS amount,
     ROUND(
         (
             SELECT SUM(a.amount)
             FROM Customer a
-            WHERE a.visited_on BETWEEN DATE_SUB(c.visited_on, INTERVAL 6 DAY)
-                                   AND c.visited_on
+            WHERE a.visited_on <= c.visited_on AND DATEDIFF(c.visited_on, a.visited_on) <7
+        
         ) / 7,
         2
     ) AS average_amount
