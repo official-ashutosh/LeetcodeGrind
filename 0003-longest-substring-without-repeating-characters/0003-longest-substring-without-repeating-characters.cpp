@@ -9,16 +9,17 @@ public:
 
         if(n == 0) return 0;
 
-        vector<int> mp(255, 0);
+        vector<int> mp(256, 0);
         while(r < n){
             mp[s[r]]++;
-                while(l < r && mp[s[r]] > 1){
-                    mp[s[l]]--;
-                    l++;
-                }
-            
+            while(mp[s[r]] > 1 && l < r){
+                mp[s[l]]--;
+                l++;
+            }
 
             ans = max(ans, r-l+1);
+
+            // cout << l << " " << r<< endl;
             r++;
         }
 
