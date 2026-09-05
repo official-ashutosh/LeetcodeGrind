@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3903-smallest-stable-index-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3904-smallest-stable-index-ii) |
 ## Array
 |  |
 | ------- |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
