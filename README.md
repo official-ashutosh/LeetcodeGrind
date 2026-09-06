@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0165-compare-version-numbers) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0119-pascals-triangle-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0140-word-break-ii) |
