@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1226,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0493-reverse-pairs) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3864-minimum-cost-to-partition-a-binary-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Quickselect
 |  |
