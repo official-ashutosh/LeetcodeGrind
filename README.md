@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1539-kth-missing-positive-number) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-stone-game-iv) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1085,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1106-parsing-a-boolean-expression) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1107,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0975-odd-even-jump) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
