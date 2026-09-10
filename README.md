@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1106-parsing-a-boolean-expression) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1278-palindrome-partitioning-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1278-palindrome-partitioning-iii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1046-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1140-stone-game-ii) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1006-vowel-spellchecker](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1370-count-number-of-nice-subarrays) |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0900-reordered-power-of-2) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1782-count-pairs-of-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1782-count-pairs-of-nodes) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -807,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
 | [1043-partition-array-for-maximum-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1140-stone-game-ii) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1278-palindrome-partitioning-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1278-palindrome-partitioning-iii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -883,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0691-stickers-to-spell-word) |
 | [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Heap (Priority Queue)
@@ -922,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0691-stickers-to-spell-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0691-stickers-to-spell-word) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1542-find-longest-awesome-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1542-find-longest-awesome-substring) |
@@ -1269,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0691-stickers-to-spell-word) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
