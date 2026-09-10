@@ -1012,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2597-cycle-length-queries-in-a-tree) |
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1070,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2597-cycle-length-queries-in-a-tree) |
 ## Stack
