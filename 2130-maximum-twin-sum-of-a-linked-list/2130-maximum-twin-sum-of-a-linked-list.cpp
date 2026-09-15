@@ -10,19 +10,35 @@
  */
 class Solution {
 public:
-
-    int ans = 0;
-    ListNode *left;
-
-    void dfs(ListNode *right){
-        if(right->next) dfs(right->next);
-
-        ans = max(ans, left->val + right->val);
-        left = left->next;
-    }
     int pairSum(ListNode* head) {
-        left = head;
-        dfs(head);
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        ListNode* prev = nullptr;
+        ListNode* curr = slow;
+
+        while(curr) {
+            ListNode* next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+        }
+
+        int ans = 0;
+        ListNode* first = head;
+        ListNode* second = prev;
+
+        while(second){
+            ans = max(ans, first->val + second->val);
+            first = first->next;
+            second = second->next;
+        }
+
         return ans;
     }
 };
