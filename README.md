@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0097-interleaving-string) |
@@ -1089,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0394-decode-string) |
