@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0166-fraction-to-recurring-decimal) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0208-implement-trie-prefix-tree) |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0119-pascals-triangle-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -869,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0140-word-break-ii) |
 | [0691-stickers-to-spell-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0691-stickers-to-spell-word) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1160,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -1511,4 +1517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1458-max-dot-product-of-two-subsequences) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
