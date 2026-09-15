@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1782-count-pairs-of-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1782-count-pairs-of-nodes) |
 | [1788-stone-game-vi](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1788-stone-game-vi) |
 | [1813-maximum-erasure-value](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1813-maximum-erasure-value) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1782-count-pairs-of-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1782-count-pairs-of-nodes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2141-maximum-running-time-of-n-computers) |
