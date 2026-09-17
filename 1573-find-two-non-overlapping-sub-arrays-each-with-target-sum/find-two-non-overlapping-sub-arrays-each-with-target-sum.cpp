@@ -28,11 +28,6 @@ public:
             if(sum == target) suff[l] = min(suff[l+1], r-l+1);
         }
 
-        for(auto i : pre) cout << i << " ";
-        cout << endl;
-        for(auto i : suff) cout << i << " ";
-        cout << endl;
-        
         int ans = n+1;
         for(int i=0; i<n-1; i++){
             ans = min(ans, pre[i+1]+suff[i+1]);
