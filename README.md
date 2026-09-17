@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1813-maximum-erasure-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1542-find-longest-awesome-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1542-find-longest-awesome-substring) |
 | [1590-make-sum-divisible-by-p](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1590-make-sum-divisible-by-p) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0794-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1046-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1539-kth-missing-positive-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -829,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1510-stone-game-iv) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1547-minimum-cost-to-cut-a-stick) |
