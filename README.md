@@ -1031,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0098-validate-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1053,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0098-validate-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -1094,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0098-validate-binary-search-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1229,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0407-trapping-rain-water-ii) |
