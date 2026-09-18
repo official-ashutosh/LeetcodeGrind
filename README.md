@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0090-subsets-ii) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -1202,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0417-pacific-atlantic-water-flow) |
