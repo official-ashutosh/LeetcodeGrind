@@ -1079,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0143-reorder-list) |
 | [0355-design-twitter](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0460-lfu-cache) |
