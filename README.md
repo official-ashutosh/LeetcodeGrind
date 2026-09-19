@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0012-integer-to-roman) |
+| [0089-gray-code](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0166-fraction-to-recurring-decimal) |
 | [0292-nim-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0326-power-of-three) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0140-word-break-ii) |
 | [0679-24-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0679-24-game) |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0222-count-complete-tree-nodes) |
