@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0493-reverse-pairs) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0611-valid-triangle-number) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0391-perfect-rectangle) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0460-lfu-cache](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0460-lfu-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0648-replace-words) |
