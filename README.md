@@ -861,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0514-freedom-trail) |
 | [0691-stickers-to-spell-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0691-stickers-to-spell-word) |
 | [0826-soup-servings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0826-soup-servings) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0867-new-21-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0877-stone-game) |
 | [0975-odd-even-jump](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0975-odd-even-jump) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0691-stickers-to-spell-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0691-stickers-to-spell-word) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
@@ -1299,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0794-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0815-bus-routes) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0922-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1373,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0691-stickers-to-spell-word) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1421,6 +1425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1584-min-cost-to-connect-all-points) |
 | [1591-strange-printer-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1591-strange-printer-ii) |
