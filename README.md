@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2023-design-movie-rental-system](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2023-design-movie-rental-system) |
+| [2050-parallel-courses-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2050-parallel-courses-iii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2050-parallel-courses-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2050-parallel-courses-iii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2348-count-number-of-texts](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2348-count-number-of-texts) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -1424,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1591-strange-printer-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1591-strange-printer-ii) |
 | [1782-count-pairs-of-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1782-count-pairs-of-nodes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2050-parallel-courses-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2050-parallel-courses-iii) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
@@ -1583,12 +1586,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1591-strange-printer-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1591-strange-printer-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2050-parallel-courses-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2050-parallel-courses-iii) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [1591-strange-printer-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1591-strange-printer-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2050-parallel-courses-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2050-parallel-courses-iii) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
