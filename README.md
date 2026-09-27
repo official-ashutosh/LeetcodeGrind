@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0856-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0900-reordered-power-of-2) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1590-make-sum-divisible-by-p) |
 | [1591-strange-printer-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1591-strange-printer-ii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1612-avoid-flood-in-the-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1628-count-submatrices-with-all-ones) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0691-stickers-to-spell-word) |
 | [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Heap (Priority Queue)
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1542-find-longest-awesome-substring](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1542-find-longest-awesome-substring) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2044-number-of-wonderful-substrings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2044-number-of-wonderful-substrings) |
