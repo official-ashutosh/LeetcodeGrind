@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0514-freedom-trail) |
 | [0648-replace-words](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0648-replace-words) |
+| [0678-valid-parenthesis-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
 | [0691-stickers-to-spell-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0691-stickers-to-spell-word) |
 | [0878-shifting-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0878-shifting-letters) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0678-valid-parenthesis-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0514-freedom-trail) |
+| [0678-valid-parenthesis-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0691-stickers-to-spell-word) |
 | [0826-soup-servings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0826-soup-servings) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -1180,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0739-daily-temperatures) |
 | [0895-maximum-frequency-stack](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0901-online-stock-span) |
@@ -1512,6 +1516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Treap
