@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2211-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2211-count-collisions-on-a-road) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2317-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2317-count-collisions-on-a-road) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1573,17 +1575,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -1592,11 +1597,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Sweep Line
 |  |
@@ -1655,4 +1662,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0899-orderly-queue) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
