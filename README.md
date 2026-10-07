@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0301-remove-invalid-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0394-decode-string) |
@@ -958,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0691-stickers-to-spell-word) |
 | [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
@@ -1303,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0417-pacific-atlantic-water-flow) |
 | [0514-freedom-trail](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0514-freedom-trail) |
