@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -1035,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
