@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1046-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1254-number-of-closed-islands) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1137,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0922-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1008-binary-tree-cameras) |
+| [1254-number-of-closed-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1254-number-of-closed-islands) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1280,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0794-swim-in-rising-water) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1254-number-of-closed-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1325,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0922-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1254-number-of-closed-islands) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1545,6 +1549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1254-number-of-closed-islands) |
 | [1584-min-cost-to-connect-all-points](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1584-min-cost-to-connect-all-points) |
 | [2612-minimum-reverse-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2612-minimum-reverse-operations) |
 ## Minimum Spanning Tree
