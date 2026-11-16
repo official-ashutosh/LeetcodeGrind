@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2211-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2211-count-collisions-on-a-road) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2317-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2317-count-collisions-on-a-road) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2288-count-operations-to-obtain-zero) |
