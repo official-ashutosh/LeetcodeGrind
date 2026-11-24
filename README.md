@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-count-increasing-quadruplets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2552-count-increasing-quadruplets) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2597-cycle-length-queries-in-a-tree) |
+| [2603-collect-coins-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2603-collect-coins-in-a-tree) |
 | [2612-minimum-reverse-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2612-minimum-reverse-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1125,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2597-cycle-length-queries-in-a-tree) |
+| [2603-collect-coins-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2603-collect-coins-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Depth-First Search
@@ -1470,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1782-count-pairs-of-nodes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2050-parallel-courses-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2050-parallel-courses-iii) |
+| [2603-collect-coins-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2603-collect-coins-in-a-tree) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
@@ -1640,6 +1643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1591-strange-printer-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1591-strange-printer-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2050-parallel-courses-iii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2050-parallel-courses-iii) |
+| [2603-collect-coins-in-a-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2603-collect-coins-in-a-tree) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 ## Directed Acyclic Graph
 |  |
