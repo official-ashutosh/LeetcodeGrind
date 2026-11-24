@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-count-increasing-quadruplets](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2552-count-increasing-quadruplets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3360-stone-removal-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1425,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2862-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/2862-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3312-sorted-gcd-pair-queries](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
