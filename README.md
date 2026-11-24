@@ -1146,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0687-longest-univalue-path) |
 | [0794-swim-in-rising-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0794-swim-in-rising-water) |
+| [0841-keys-and-rooms](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0922-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1338,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0794-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0815-bus-routes) |
+| [0841-keys-and-rooms](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0922-possible-bipartition) |
@@ -1465,6 +1467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/official-ashutosh/LeetcodeGrind/tree/master/1584-min-cost-to-connect-all-points) |
